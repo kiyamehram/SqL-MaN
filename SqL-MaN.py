@@ -1,3 +1,8 @@
+#!/bin/bash
+
+# Personal DDoS Tool
+# Author: [NoneR00tk1t]
+
 import argparse
 import requests
 import urllib.parse
@@ -478,4 +483,5 @@ if __name__ == "__main__":
         print("[!] Injection stopped by user.")
     except Exception as e:
         logging.error(f"Unexpected error: {e}")
+
         print(f"[!] An error occurred: {e}")
