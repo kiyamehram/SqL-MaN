@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Personal DDoS Tool
+# Personal SQLi Tool
 # Author: [NoneR00tk1t]
 
 import argparse
@@ -485,3 +485,4 @@ if __name__ == "__main__":
         logging.error(f"Unexpected error: {e}")
 
         print(f"[!] An error occurred: {e}")
+
