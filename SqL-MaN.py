@@ -1,5 +1,4 @@
-#!/bin/bash
-
+#!/use/bin/python3
 # Personal SQLi Tool
 # Author: [NoneR00tk1t]
 
